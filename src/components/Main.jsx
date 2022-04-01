@@ -3,14 +3,12 @@ import logo from "../images/logo.svg";
 import illustration from "../images/illustration-dashboard.png";
 import $ from "jquery";
 
-const emailAddress = $("#email-input input");
-const error = $("#email-input p");
-
 function CheckEmail() {
+    const emailAddress = $("#email-input input");
+    const error = $("#email-input p");
     const emailRegex = /^([a-zA-Z0-9_.+-])+@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
     if (emailRegex.test(emailAddress.val()) === false) {
         error.addClass("error");
-        console.log(emailAddress);
         emailAddress.addClass("error");
     }
     else {
