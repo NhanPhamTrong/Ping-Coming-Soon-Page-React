@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ping-Coming-Soon-Page-React/static/css/main.073c9b0a.css",
+    "main.js": "/Ping-Coming-Soon-Page-React/static/js/main.9a52d707.js",
+    "static/js/787.56a44f26.chunk.js": "/Ping-Coming-Soon-Page-React/static/js/787.56a44f26.chunk.js",
+    "static/media/logo.svg": "/Ping-Coming-Soon-Page-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ping-Coming-Soon-Page-React/index.html",
+    "main.073c9b0a.css.map": "/Ping-Coming-Soon-Page-React/static/css/main.073c9b0a.css.map",
+    "main.9a52d707.js.map": "/Ping-Coming-Soon-Page-React/static/js/main.9a52d707.js.map",
+    "787.56a44f26.chunk.js.map": "/Ping-Coming-Soon-Page-React/static/js/787.56a44f26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9a52d707.js"
+  ]
+}
