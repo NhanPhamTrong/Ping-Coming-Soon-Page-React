@@ -1,0 +1,37 @@
+footer {
+    margin-top: 14.5rem;
+
+    .container {
+        text-align: center;
+
+        .social-media {
+            margin-bottom: 3.5rem;
+
+            button {
+                margin: 0 0.75rem;
+                padding: 1rem;
+                background-color: transparent;
+                border: $btn-border solid 1px;
+                border-radius: 100px;
+                color: $word-color-3;
+
+                i {
+                    font-size: 2rem;
+                }
+            }
+        }
+
+        .copyright {
+            color: $word-color-2;
+        }
+    
+        .attribution {
+            font-size: 11px;
+            text-align: center;
+    
+            a {
+                color: hsl(228, 45%, 44%);
+            }
+        }
+    }
+}

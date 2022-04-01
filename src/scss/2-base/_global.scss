@@ -1,0 +1,16 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+
+    .container {
+        width: 560px;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    body {
+        .container {
+            width: 912px;
+        }
+    }
+}
